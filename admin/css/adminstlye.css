@@ -1,0 +1,54 @@
+.btn.delete{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 10px;
+    background-color: #FF4040;
+}
+.btn.add{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 10px;
+    background-color: #1E90FF;
+
+}
+.btn.edit{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 10px;
+    background-color: #00BFFF;
+}
+.btn.save{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    background-color: #00BFFF;
+}
+.thshow{
+   text-align: center;
+}
+.cardmb{
+    box-sizing: border-box;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+.label{
+    font-weight: 400;
+}
+/* .cardmb{
+    padding-right: 1.5rem;
+}
+.form-control{
+    width: 100%;
+    box-sizing: border-box;
+    margin-left: 1.5rem;
+}
+.form-label{
+    margin-left: 2rem;
+}
+.cardform{
+    margin-right: 1.5rem;
+}  */
+

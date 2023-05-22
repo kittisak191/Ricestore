@@ -1,0 +1,28 @@
+.btn.b1{
+    width: 100%;
+    font-weight: 500;
+    background-color: #88b288;
+    border: none;
+}
+.c1{
+    width: 30%;
+    padding: 30px;
+    margin-top: 14%;
+    margin-left: 35%;
+    background-color: #81a684;
+}
+.f2{
+    margin-top: 20px;
+}
+.r1{
+    margin-top: 10px;
+    text-align: left;
+}
+.bi-envelope-fill{
+    color: #6c855a;
+    margin-right: 20px;
+}
+.bi-lock-fill{
+    color: #6c855a;
+    margin-right: 20px;
+}
